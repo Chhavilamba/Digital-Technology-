@@ -1,0 +1,23 @@
+First class started with the introduction of students, and we were asked to go around the campus in groups to explore the instruments of digital technology. Then we noted the digital technology instruments like fan, lights, computer, biometric, cameras, projector, generator, water dispenser, sanitary pad vending machine, etc. 
+We were also asked to find a way to mail many people at a time using Google Sheets as homework.
+—-----
+21/01/25 We discussed the digital technology instruments from the previous class, and then the instructor taught us Binary numbers and how a CPU operates using binary numbers. We learned how to calculate Binary numbers.
+—---
+23/01/25 At the start of the class, the instructor told us the structure of the course, units, and assessments. We were introduced to Git and Logic Gates such as AND, OR, NOT, etc. Then she explained the processing from the CPU to the LPU, which involves the use of registers, compilers. She told us how network service providers fool common people by causing some mishap in their network speed and also told us how hackers use data from open wifi networks.
+27/01/25 The process of computation in ALU, the functioning of Address Bus and Data Bus was explained.
+30/01/25 Quiz on binary numbers
+04/02/25 We installed Linux and learned about it, and used the command prompt also.
+11/02/25 Studied PowerShell, creation of a new directory.
+13/02/25 - We learned about Linux WSL, basic commands in pico, such as making and deleting directories, bash, etc. Also, learned about Unix and Linux.
+18 February - We did in class presentations. Our topic was Linux.
+4 March - Instructor taught us about PICO editor and linux commands such as bash, ps-aux, ps-ef, cat, wc, and ways of changing the name of directories.
+6th March - Online class happened. Instructor asked us to intall Linux through USB boot.
+11th March - Guest lecture.
+13th March - Quiz on shell commands.
+25th March - Instructor taught us about mail climb and hardware connection.
+27th March - Instructor explained the concept of Internet Protocol Address(IP), Firewall, HTTP, and FTTP.
+1st April- We had a quiz on the protocol and internet transmission. Then we learned to work with Git in WSL, like how to commit changes, add file, etc. And them we learned about history of Linux, its origin and development.
+8th April- We had a guest lecture on Artificial Neural Networks by Bhanu Priya. She started with the explanation of neural networks by comparing them with biological neurons, and then she explicitly described the function of artificial neural networks. We also learned about threshold functions, binary gates, and ways to train networks. She also discussed Hebb’s rule and the problems with McCulloch $ Pitts’ formation.
+10 April- We gave short presentations of the project in class. Our topic was Understanding E-commerce platforms.
+15 April and 17 April - Worked on our project outside class.
+24 April - Gave presentation in front of instructor.
